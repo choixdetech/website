@@ -1,0 +1,13 @@
+# 16/05/2019
+# Il est interdit d'utiliser des robots d'indexation Web ou d'autres méthodes automatiques de feuilletage ou de navigation sur ce site Web.
+# Nous interdisons de crawler notre site Web en utilisant un agent d'utilisateur volé qui ne correspond pas à votre identité.
+# « Violation du droit du producteur de base de données - suivant le Code de la propriété intellectuelle ».
+# Nous vous invitons à nous contacter pour contracter une licence d'utilisation. Seuls les partenaires sont habilités à utiliser nos contenus pour un usage autre que strictement individuel.
+#
+#
+User-agent: *
+Disallow: /sass/
+Disallow: /js/
+Disallow: /fonts/
+Disallow: /css/
+Disallow: /images/
